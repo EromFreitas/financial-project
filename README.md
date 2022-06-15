@@ -17,6 +17,3 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 A aplicação web pode ser acessada em [`localhost:4000`](http://localhost:4000).
 O servidor pode ser acessado em [`localhost:1526`](http://localhost:1526).
-
-## 🚨 Testes
-- Execute `yarn test`
